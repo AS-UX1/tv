@@ -1,0 +1,430 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/01_TVN.png" group-title="Chile",TVN
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://marine2.miplay.cl/tvn/tracks-v1a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="24 Horas" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/02_24_HORAS.png" group-title="Noticias | Chile",24 Horas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?access_token=
+#
+#EXTINF:-1 tvg-id="TVChile.cl" tvg-name="TV Chile" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/03_TV_CHILE.png" group-title="Chile",TV Chile
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?access_token=
+#
+#EXTINF:-1 tvg-id="NTV.cl" tvg-name="NTV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/04_NTV.png" group-title="Geeks | Animé | Kids",NTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+#
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/05_MEGA.png" group-title="Chile",Mega
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://marine2.miplay.cl/mega/tracks-v1a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="Meganoticias.cl" tvg-name="Meganoticias" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/06_MEGANOTICIAS.png" group-title="Noticias | Chile",Meganoticias
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?access_token=
+#
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="ChileVision" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/07_CHILEVISION.png" group-title="Chile",CHV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://marine2.miplay.cl/chilevision/tracks-v1a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="CHVMNoticias.cl" tvg-name="CHV Noticias" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/08_CHV_NOTICIAS.png" group-title="Noticias | Chile",CHV Noticias
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master_1.m3u8
+#
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/09_CANAL_13.png" group-title="Chile",Canal 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://canal13-m3u.chorroaeboy.repl.co
+#
+#EXTINF:-1 tvg-id="T13.cl" tvg-name="T13" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/10_T13.png" group-title="Noticias | Chile",T13
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/t13/livestream1/chunks.m3u8
+#
+#EXTINF:-1 tvg-id="13Entretención.cl" tvg-name="13 Entretención" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/11_13_E.png" group-title="Chile",13 | Entretención
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
+#
+#EXTINF:-1 tvg-id="13Prime.cl" tvg-name="13 Prime" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/12_13_P.png" group-title="Chile",13 | Prime
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
+#
+#EXTINF:-1 tvg-id="13Teleseries.cl" tvg-name="13 Teleseries" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/13_13_T.png" group-title="Chile",13 | Teleseries
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
+#
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/14_LA_RED.png" group-title="Chile",La Red
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://marine2.miplay.cl/lared/tracks-v2a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="TVPlus.cl" tvg-name="TV Plus" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/15_TV+.png" group-title="Chile",TV+
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://marine2.miplay.cl/tvmas/tracks-v1a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="UCTV.cl" tvg-name="UCV TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/16_UCV.png" group-title="Chile",UCV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://marine2.miplay.cl/ucv3/tracks-v2a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="UCTV2.cl" tvg-name="UCV TV 2 " tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/17_UCV_2.png" group-title="Chile",UCV | 2
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8?nimblesessionid=
+#
+#EXTINF:-1 tvg-id="StgoTV.cl" tvg-name="Stgo.TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-02uPrXnaZuY/Xk_sz_MIaEI/AAAAAAAAwVo/wwJD8vjW0ScrhAp-BVHSElUKIOUN_CqJgCK8BGAsYHg/s0/2020-02-21.png" group-title="Chile",Stgo.TV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://stv.janus.cl/playlist/stream.m3u8?s=hd&t=&id=f357dd42-bb98-e8c5-fcc3-9206ca8e26d8&q=&d=u
+#
+#EXTINF:-1 tvg-id="UChileTV.cl" tvg-name="U Chile TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/2336e0cef4642213124e4192f019ccfd.png" group-title="Chile",U Chile TV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/uchiletv/livestream2/chunks.m3u8
+#
+#EXTINF:-1 tvg-id="WappTV.cl" tvg-name="WappTV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-XPA8QBfVGSA/YLEWvahvgkI/AAAAAAABCjo/sVxl7r4_EQgdvmviKMozcvmxwajFgdLcgCJEEGAsYHg/s512/202105-28.jpg" group-title="Chile",WappTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8?access_token=
+#
+#EXTINF:-1 tvg-id="tevex.cl" tvg-name="tevex" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/37360245ae2194a41c9eaca39c5e1ec0.png" group-title="Chile",tevex
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="38TV.cl" tvg-name="38TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/3cc1950b0f0c4ad15752bd5b6646fdf6.png" group-title="Chile",38TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://v2.tustreaming.cl:19360/38tv/38tv.m3u8
+#
+#EXTINF:-1 tvg-id="ZappingMusic.cl" tvg-name="Zapping Music" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png" group-title="Música | Radio",Zapping Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
+#
+#EXTINF:-1 tvg-id="RewindTV.cl" tvg-name="RewindTV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://www.m3u.cl/logo/1_Rewind_Radio_y_TV.png" group-title="Música | Radio",Rewind
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1113017119.m3u8
+#
+#EXTINF:-1 tvg-id="BioBioTV.cl" tvg-name="Bio Bio TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://www.m3u.cl/logo/421_Bio_Bio_TV.png" group-title="Noticias | Chile",BioBio TV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/bbtv/livestream1/chunks.m3u8
+#
+#EXTINF:-1 tvg-id="Cooperativa.cl" tvg-name="Cooperativa" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://www.m3u.cl/logo/422_Cooperativa.png" group-title="Noticias | Chile",Cooperativa
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/coopetv/livestream1/chunks.m3u8
+#
+#EXTINF:-1 tvg-id="ADNRadio.cl" tvg-name="ADN Radio" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://www.m3u.cl/logo/424_ADN.png" group-title="Noticias | Chile",ADN
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited1-cl-isp.dps.live/adntv/adntv.smil/adntv/livestream1/chunks.m3u8
+#
+#EXTINF:-1 tvg-id="RadioInfinita.cl" tvg-name="Radio Infinita" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/e6cda89272e3579a1987bc1380bd5866.png" group-title="Noticias | Chile",Infinita
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited2-cl-isp.dps.live/infinitatv/infinitatv.smil/infinitatv/livestream1/chunks.m3u8?nimblesessionid=
+#
+#EXTINF:-1 tvg-id="Pauta.cl" tvg-name="Pauta TV 2" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-DB74taQncQw/XbSnai__c5I/AAAAAAAArt0/jqsOckrCWRMdlGZoE1ecSjJrHivTgt_fQCK8BGAsYHg/s0/201900-26.png" group-title="Noticias | Chile",Pauta | 2
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited1-cl-entel.dps.live/pauta2/pauta2.smil/pauta2/livestream1/chunks.m3u8?nimblesessionid=
+#
+#EXTINF:-1 tvg-id="Puranoticia.cl" tvg-name="Puranoticia" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/3dcc431073eca367aef2011ebdd26387.png" group-title="Noticias | Chile",Puranoticia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://pnt.janusmedia.tv/hls/pnt.m3u8
+#
+#EXTINF:-1 tvg-id="RadioPortales.cl" tvg-name="Radio Portales" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-eIr2RmGVfeg/XkbYVLkwo3I/AAAAAAAAwCs/F1Q11XV_JvgjR-wvfgNhKrGUmE7OldbqACK8BGAsYHg/s0/2020-02-14.png" group-title="Noticias | Chile",Radio Portales
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://cdn.oneplaychile.cl:1936/radios/radioportales.stream/chunks.m3u8?nimblesessionid=
+#
+#EXTINF:-1 tvg-id="Canal9BioBioTV.cl" tvg-name="Canal 9 Bio Bio TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-opZ6mP8G3Fo/Wn9lBEeoQ4I/AAAAAAAAgwY/cKvIaCeqHZEwdTQ-pJPh7oCDIU2q-fECwCK8BGAs/s220/2018-02-10.png" group-title="Noticias | Chile",Canal 9 Bio Bio TV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited1-cl-isp.dps.live/c9/c9.smil/c9/livestream2/chunks.m3u8?nimblesessionid=
+#
+#EXTINF:-1 tvg-id="RadioDuna.cl" tvg-name="Radio Duna" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-yl6dZt6XKzE/XdshRlQ88eI/AAAAAAAAsU4/KxB9KZBrShQzBIEQyGmDZ9a-vvI41GiQwCK8BGAsYHg/s0/201901-24.png" group-title="Noticias | Chile",Duna
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://unlimited1-cl-isp.dps.live/dunatv/dunatv.smil/dunatv/livestream1/chunks.m3u8?nimblesessionid=
+#
+#EXTINF:-1 tvg-id="RadioAgricultura.cl" tvg-name="Radio Agricultura" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-nMa_IsPVRQ0/Xdsii8vjPBI/AAAAAAAAsVI/py8vvCsRNGIuvDA62hxD62S6L29wmGOzACK8BGAsYHg/s0/201901-24.png" group-title="Noticias | Chile",Agricultura
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited1-cl-isp.dps.live/921tv/921tv.smil/921tv/livestream1/chunks.m3u8?nimblesessionid=
+#
+#EXTINF:-1 tvg-id="Camara.cl" tvg-name="Camara de Diputados" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/8ac54ede0184c4fd9e872231a6d673b3.png" group-title="Noticias | Chile",TV Diputados | Chile
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://tls-cl.cdnz.cl/camara/live/chunklist_w575837775.m3u8
+#
+#EXTINF:-1 tvg-id="TVSenado.cl" tvg-name="TV Senado Chile" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/ee6b562807f06f0139f28cd160a82a8f.png" group-title="Noticias | Chile",TV Senado | Chile
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
+#
+#EXTINF:-1 tvg-id="CulturaOnline.cl" tvg-name="Cultura Online" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/5ffe16632230a917956af1eda734fb85.png" group-title="Chile",Cultura Online
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://v2.tustreaming.cl/culturaonline/tracks-v1a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="GiroVisual.cl" tvg-name="Giro Visual" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/11ba44db3bc04558ed204a000c65c266.png" group-title="Chile",GiroVisual TV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/girovisual2/livestream1/chunks.m3u8?nimblesessionid=
+#
+#EXTINF:-1 tvg-id="TVCosta.cl" tvg-name="TV Costa" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-xyk2_KFlnyQ/WycRffTYWbI/AAAAAAAAj2I/H3wImrej3y8ryyTZOsLtkd8fVB12d5aKQCK8BGAs/s200/20180607.png" group-title="Chile",TV Costa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://tv.tvcontrolcp.com:1936/costatv1/costatv1/chunklist_w1037871303.m3u8
+#
+#EXTINF:-1 tvg-id="ClickTV.cl" tvg-name="ClickTV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/d4950684d99dbc3a25f4ef74a2895871.png" group-title="Chile",ClickTV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://v2.tustreaming.cl/clicktv/tracks-v1a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="TVR.cl" tvg-name="TVR" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-xyk2_KFlnyQ/WycRffTYWbI/AAAAAAAAj2I/H3wImrej3y8ryyTZOsLtkd8fVB12d5aKQCK8BGAs/s200/20180607.png" group-title="Chile",TVR
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/tvr/livestream1/chunks.m3u8?nimblesessionid=
+#
+#EXTINF:-1 tvg-id="VTV.cl" tvg-name="VTV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-EcdiT1eMFFg/YLwNYKl0GII/AAAAAAABCsM/_WU-X010dJ80kDrgugAdGtSzIpUNsEgygCJEEGAsYHg/s512/20210605.png" group-title="Chile",VTV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8?nimblesessionid=
+#
+#EXTINF:-1 tvg-id="TVSalud.cl" tvg-name="TV Salud" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-Xv_aL34GjFE/XdksOdTnS9I/AAAAAAAAsTs/_WBt4UNy428CuU5dtVeJQZzh4EpQREnDwCK8BGAsYHg/s0/201901-23.png" group-title="Chile",TV Salud
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w570085021.m3u8
+#
+#EXTINF:-1 tvg-id="ClubTV.cl" tvg-name="Club TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-ZO2ZG5c9lTg/YH4vuRraIyI/AAAAAAABBv4/sR_z5uB03g8Xo_BL094Xs-Kk31W-aFjmACK8BGAsYHg/s512/20210409.png" group-title="Chile",ClubTV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://mediacpstreamchile.com:1936/clubtv/clubtv/chunklist_w338553907.m3u8
+#
+#EXTINF:-1 tvg-id="HiperTV.cl" tvg-name="HiperTV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-YUlLyA8Pk7Y/X5n9AMtVNNI/AAAAAAAA61E/UkiOjRsCTWMa94h4g35uC424D4E_wU_2gCK8BGAsYHg/s0/202000-28.png" group-title="Chile",HiperTV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/chunklist_w927241437.m3u8
+#
+#EXTINF:-1 tvg-id="DBoxRadio.cl" tvg-name="DBox Radio" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-SQdye8I9dnM/YIDp2W_TXJI/AAAAAAABB2s/WEtbSpSFbiEfpoYN3Wy76gtxXIIdCPjeQCK8BGAsYHg/s512/202104-21.png" group-title="Chile",DBox Radio
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://stmv1.voxtvhd.com.br/dbox/dbox/chunklist_w966860208.m3u8
+#
+#EXTINF:-1 tvg-id="RadioHoy.cl" tvg-name="Radio Hoy" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-vFBzx3OHjvA/XmPSjVW5sMI/AAAAAAAAwp8/W0kgWc-NYfUkFdX3SZICQX3njfoFJP72QCK8BGAsYHg/s0/20200307.png" group-title="Chile",HoyTV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://panel.dattalive.com/8146/8146/chunklist_w588303568.m3u8
+#
+#EXTINF:-1 tvg-id="VivoTV.cl" tvg-name="Vivo TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-1sqZ7rIlQfU/X30JIKK3h6I/AAAAAAAA6Mg/PXOK4Ogfto8S5Jkbot2bAdHtCctyapzqwCK8BGAsYHg/s0/2020-10-06.jpg" group-title="Chile",Vivo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://unlimited1-cl-isp.dps.live/vivotv/vivotv.smil/vivotv/livestream1/chunks.m3u8
+#
+#EXTINF:-1 tvg-id="ZizaTV.cl" tvg-name="Ziza TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/129d176f2117a7985aefe938703c34a5.png" group-title="Chile",ZizaTV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://v2.tustreaming.cl/zizatv/tracks-v1a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="RCKTV.cl" tvg-name="RCK TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/b4e09c1315da8b38ccb2e308519cbda1.png" group-title="Música | Radio",RCK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w315868835.m3u8
+#
+#EXTINF:-1 tvg-id="RadioFuturo.cl" tvg-name="Radio Futuro" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Futuro-home.svg/1280px-Futuro-home.svg.png" group-title="Música | Radio",Futuro
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited1-cl-isp.dps.live/futurotv/futurotv.smil/futurotv/livestream1/chunks.m3u8
+#
+#EXTINF:-1 tvg-id="RuidosFM.cl" tvg-name="Ruidos FM" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-OYgpvMljozw/Xxy-3V91rJI/AAAAAAAA3WI/1Tr5TT2vvDw63C_2ZoSu5mmvTvZV4UDFACK8BGAsYHg/s0/202007-25.png" group-title="Música | Radio",Ruidos FM
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://593b04c4c5670.streamlock.net/8038/8038/chunklist_w1810306139.m3u8
+#
+#EXTINF:-1 tvg-id="RadioZeta.cl" tvg-name="Radio Zeta" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-Zkxwnf-bgX4/XoPOd4kOr7I/AAAAAAAAxX0/EWBlznUnmekBRjTn7B8n3ocfGe8bkITsQCK8BGAsYHg/s0/202003-31.png" group-title="Música | Radio",RadioZeta
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited1-cl-isp.dps.live/radioztv/radioztv.smil/radioztv/livestream2/chunks.m3u8?nimblesessionid=
+#
+#EXTINF:-1 tvg-id="RadioTiempo.cl" tvg-name="Radio Tiempo" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-pG_O1wKWuUY/XlPedSivgtI/AAAAAAAAwbg/f7tHw2tx4kMuTwzpTSoJQeiprrvTMshuQCK8BGAsYHg/s0/202002-24.png" group-title="Música | Radio",Tiempo
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited2-cl-isp.dps.live/fmtiempotv/fmtiempotv.smil/fmtiempotv/livestream1/chunks.m3u8?nimblesessionid=
+#
+#EXTINF:-1 tvg-id="OnRadioChile.cl" tvg-name="On Radio Chile" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-tWify_nqCRw/XlwOcKK-yiI/AAAAAAAAwg0/mYcxi6LPzmYoZVTyTAOF0VFqInihTPbhgCK8BGAsYHg/s0/20200301.png" group-title="Música | Radio",OnRadio | Chile
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://tls-cl.cdnz.cl/adgm0/live/playlist.m3u8
+#
+#EXTINF:-1 tvg-id="OnRadioKPop.cl" tvg-name="On Radio Kpop" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-MfYGt6f-FNQ/XmWIp_jDYpI/AAAAAAAAwsg/7Yn3jbMYdRIJWMFC3S1YbS2hQT3XBMiOgCK8BGAsYHg/s0/20200308.png" group-title="Música | Radio",OnRadio | Kpop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
+#
+#EXTINF:-1 tvg-id="CarolinaTV.cl" tvg-name="Carolina TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-3hmTnW9e-Y4/XbDAlKKxKtI/AAAAAAAArnA/OkLJM2f1T0ktieMaceuBzVPOADwGIf1jACK8BGAsYHg/s0/201900-23.png" group-title="Música | Radio",CarolinaTV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream0/chunks.m3u8?nimblesessionid=
+#
+#EXTINF:-1 tvg-id="CarolinaTV2.cl" tvg-name="Carolina TV 2" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-3hmTnW9e-Y4/XbDAlKKxKtI/AAAAAAAArnA/OkLJM2f1T0ktieMaceuBzVPOADwGIf1jACK8BGAsYHg/s0/201900-23.png" group-title="Música | Radio",CarolinaTV | 2
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited1-cl-isp.dps.live/carolinatv2/carolinatv2.smil/playlist.m3u8
+#
+#EXTINF:-1 tvg-id="Pauta.cl" tvg-name="Pauta TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-DB74taQncQw/XbSnai__c5I/AAAAAAAArt0/jqsOckrCWRMdlGZoE1ecSjJrHivTgt_fQCK8BGAsYHg/s0/201900-26.png" group-title="Música | Radio",Pauta
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited1-cl-entel.dps.live/pautatv/pautatv.smil/pautatv/livestream1/chunks.m3u8?nimblesessionid=
+#
+#EXTINF:-1 tvg-id="PudahuelFM.cl" tvg-name="Pudahuel FM" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-j_3t6HSVxa8/XkbbBzVir0I/AAAAAAAAwDM/kVHViPIlEDs5ntK8W5yfVgaym95puVsLACK8BGAsYHg/s0/20200204.png" group-title="Música | Radio",Pudahuel FM
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/pudahueltv/livestream0/chunks.m3u8?nimblesessionid=
+#
+#EXTINF:-1 tvg-id="RadioRomantica.cl" tvg-name="Radio Romantica" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/fb1c2e049a401e2e34318f28706587d0.png" group-title="Música | Radio",Romantica
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited2-cl-isp.dps.live/romanticatv/romanticatv.smil/romanticatv/livestream0/chunks.m3u8?nimblesessionid=
+#
+#EXTINF:-1 tvg-id="RTEspanol.ru" tvg-name="RT Español" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1024px-Russia-today-logo.svg.png" group-title="Noticias | Internacional",RT | Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
+#
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Español" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1024px-FRANCE_24_logo.svg.png" group-title="Noticias | Internacional",France24 | Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/02.m3u8
+#
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW Español" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1920px-Deutsche_Welle_symbol_2012.svg.png?20120215004024" group-title="Noticias | Internacional",DW | Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#
+#EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-name="Euronews Español" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Euronews._2016_logo.svg/1920px-Euronews._2016_logo.svg.png?20220220115141" group-title="Noticias | Internacional",Euronews | Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/730c25dabdbf07ec40b04f491cb629f5.m3u8
+#
+#EXTINF:-1 tvg-id="HispanTV.ir" tvg-name="Hispan TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hispan_Tv_logo.svg/2560px-Hispan_Tv_logo.svg.png" group-title="Noticias | Internacional",HispanTV | Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://live1.presstv.ir/live/hispan_720p/index.m3u8
+#
+#EXTINF:-1 tvg-id="RTVE24h.es" tvg-name="RTVE 24h" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1280px-Logo_TVE-24h.svg.png" group-title="Noticias | Internacional",24h | RTVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr_720.m3u8
+#
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-name="Telesur" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1024px-TeleSUR-Logo.svg.png" group-title="Noticias | Internacional",Telesur Noticias
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#
+#EXTINF:-1 tvg-id="CGTNEspanol.cn" tvg-name="CGTN Español" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Noticias | Internacional",CGTN | Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-name="EnerGeek" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/21292151846695a1a7dff79bad326e50.png" group-title="Geeks | Animé | Kids",EnerGeek
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8?nimblesessionid=
+#
+#EXTINF:-1 tvg-id="EnergeekRadio.cl" tvg-name="Energeek Radio" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/0a827a2aa3eb974cf2e999e0139f6d0f.png" group-title="Geeks | Animé | Kids",Energeek | 2
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8?nimblesessionid=
+#
+#EXTINF:-1 tvg-id="ControlVG.cl" tvg-name="Control.VG" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/b7451f5e0cacde5e936c5ab3ee2d0deb.png" group-title="Geeks | Animé | Kids",Control.VG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://tls-cl.cdnz.cl/onradio-5/live/playlist.m3u8
+#
+#EXTINF:-1 tvg-id="KanadeTV.cl" tvg-name="KanadeTV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/5a7804b203e6167e010d4de31ae9390d.png" group-title="Geeks | Animé | Kids",KanadeTV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/chunklist_w1639853685.m3u8
+#
+#EXTINF:-1 tvg-id="RocketChannel.ar" tvg-name="Rocket Channel" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/604dd86c9c9a4937b0f97e141a75c7cb.png" group-title="Geeks | Animé | Kids",Rocket Channel
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://vivo.solumedia.com:19360/toonizaki/toonizaki.m3u8
+#
+#EXTINF:-1 tvg-id="AnimeZoneTV.ar" tvg-name="AnimeZoneTV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="Geeks | Animé | Kids",AniméZoneTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+http://animezonetv.net/hls/stream.m3u8
+#
+#EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-name="LatinoKidsTV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png" group-title="Geeks | Animé | Kids",LatinoKids
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://videostreaming.cloudserverlatam.com/8062/8062/chunklist_w538356964.m3u8
+#
+#EXTINF:-1 tvg-id="HolaTVAmericaLatina.es" tvg-name="¡Hola! TV América Latina" tvg-language="spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml" shift="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg" group-title="Cultura  | Entretención",¡Hola! TV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-720.m3u8
+#
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-language="spanish" tvg-country="CL" tvg-url="https://iptv-org.github.io/epg/guides/ca/mi.tv.epg.xml" shift="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Cultura  | Entretención",Love Nature
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://bamus-spa-roku.amagi.tv/playlist720-lp.m3u8
+#
+#EXTINF:-1 tvg-id="EJTV.cr" tvg-name="EJTV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://ejtv.tv/wp-content/uploads/2014/07/EJTVlogo.png" group-title="Cristianos",EJTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8
+#
+#EXTINF:-1 tvg-id="NubehTV.ve" tvg-name="Nubeh TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="http://nubeh.tv/img/logo_large.png" group-title="Cristianos",Nubeh TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://vcp.myplaytv.com/nubehtv/nubehtv/chunklist_w732385929.m3u8
+#
+#EXTINF:-1 tvg-id="LaNuevaTV.us" tvg-name="La Nueva TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lanuevafm.net/es/wp-content/uploads/2013/10/lntv.jpg" group-title="Cristianos",La NuevaTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://5e85d90130e77.streamlock.net/6004/6004/playlist.m3u8
+#
+#EXTINF:-1 tvg-id="CorporacionTV.cl" tvg-name="Corporación TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-1DD2_7O4EHg/XxY_co4iSZI/AAAAAAAA3IE/gq53olI6DCg8bM1I5sSHyUjhUNyLFm6egCK8BGAsYHg/s0/2020-07-20.png" group-title="Cristianos",CorporaciónTV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://v2.tustreaming.cl/corporaciontv/tracks-v1a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="NCTV.cl" tvg-name="NCTV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-8FziFTjIuAc/Xp0H3lcJYsI/AAAAAAAAyCQ/FGN80U47Fiw0GwPBBcVtMfT5Ky0wKftqgCK8BGAsYHg/s0/2020-04-19.png" group-title="Cristianos",NCTV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited1-cl-entel.dps.live/nctv/nctv.smil/nctv/livestream1/chunks.m3u8?nimblesessionid=
+#
+#EXTINF:-1 tvg-id="Avivamiento.us" tvg-name="Avivamiento" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/ABN_Colombia_2014.png" group-title="Cristianos",ABN | AvivamientoTV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://s2.abntelevision.com/avivamientohd/avivamientohd/chunks.m3u8?nimblesessionid=
+#
+#EXTINF:-1 tvg-id="CanalLuz.ar" tvg-name="Canal Luz" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://vivo.canalluz.org/assets/images/logo-2020-250x79.png" group-title="Cristianos",canalLUZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://g2.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
+#
+#EXTINF:-1 tvg-id="RTVPlus.es" tvg-name="RTV Plus+" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-CVm245eZ890/YE6U9N6yZSI/AAAAAAABAuE/9Auajk4UAtM5WfqNd3bWvPawI9cGHvc2ACK8BGAsYHg/s512/2021-03-14.png" group-title="Cristianos",RTV Plus+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+#
+#EXTINF:-1 tvg-id="GraciaTV.cl" tvg-name="Gracia TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://www.graciatv.com/wp-content/uploads/2020/02/logofoot-01.png" group-title="Cristianos",GraciaTV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://v4.tustreaming.cl/graciatv/index.m3u8
+#
+#EXTINF:-1 tvg-id="TelevidaHD.cl" tvg-name="TelevidaHD" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i.playboard.app/p/AAUvwnhRRDLnsMcXtxeUXssg0wv6F9Zq6-8vEM7zHlLysw/default.jpg" group-title="Cristianos",TelevidaHD
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://tls-cl.cdnz.cl/televida/live/chunklist_w1284888220.m3u8
+#
+#EXTINF:-1 tvg-id="TNE.cl" tvg-name="TNE" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/12d449b496fcb00dc23612da150e3fd6.png" group-title="Cristianos",TNE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://v2.tustreaming.cl/tnetv/index.m3u8
+#
+#EXTINF:-1 tvg-id="CieloTV.do" tvg-name="CieloTV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://cielotv.do/wp-content/uploads/2021/07/logotipoctv.png" group-title="Cristianos",CieloTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://mycloudstream.akamaized.net/hls/live/2035990/ymty1j6r/index.m3u8
+#
+#EXTINF:-1 tvg-id="AlientoVisión.us" tvg-name="Aliento Visión" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5553563ae4b08689b8eeaf65/1431525670594-U13DGVS6OE3CYZJ5F1Y4/logo+AV.png" group-title="Cristianos",Aliento Visión
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/chunklist_w1153799608_b1300000_slen.m3u8
+#
+#EXTINF:-1 tvg-id="Almavision.us" tvg-name="Almavisión" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://image.roku.com/developer_channels/prod/14e050f17fa98573032463f966e8a41435052d4fe16d1ceb3da26e03b32f7955.png" group-title="Cristianos",Almavisión
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://ott.streann.com/loadbalancer/services/public/channels-secure/5cba297c2cdccfdc52ff8ba3/playlist.m3u8
+#
+#EXTINF:-1 tvg-id="XtoTV.bo" tvg-name="XtoTV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-7SXvBoxEU7U/YIoR7EX9WEI/AAAAAAABCCM/vilu9iV1RDcjDOT5ksg9xvMyyjceKWRowCK8BGAsYHg/s512/2021-04-28.png" group-title="Cristianos",XtoTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://614013e273786.streamlock.net/XtoTv/XtoTv/chunklist_w318025573.m3u8
+#
+#EXTINF:-1 tvg-id="enlace.cl" tvg-name="enlace Chile" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://componentes.enlace.org/Recursos/defaultTVShowImage.png" group-title="Cristianos",EnlaceTV | Chile
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
+#
+#EXTINF:-1 tvg-id="RadioCristiana.es" tvg-name="Radio Cristiana España" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-CVm245eZ890/YE6U9N6yZSI/AAAAAAABAuE/9Auajk4UAtM5WfqNd3bWvPawI9cGHvc2ACK8BGAsYHg/s512/2021-03-14.png" group-title="Cristianos",RadioCristiana España
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8
+#
+#EXTINF:-1 tvg-id="MovieFE.co" tvg-name="MovieFE" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="http://moviefe.com/logo%20moviefe.png" group-title="Cristianos",MovieFE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/chunklist_w963072399_b817156.m3u8
+#
+#EXTINF:-1 tvg-id="GenialTV.cl" tvg-name="Genial TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-tgkESVUJWRI/XkyfsBVW_mI/AAAAAAAAwHw/xsYoralOutAlHw-iMJC9nl1hdd6vKqznQCK8BGAsYHg/s0/20200208.png" group-title="Patagonia",Genial +Media
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1
+https://v2.tustreaming.cl/genialtv/index.m3u8
+#
+#EXTINF:-1 tvg-id="RadioLasNieves.cl" tvg-name="Radio Las Nieves" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-yAzYXd230b8/XmPQwQY849I/AAAAAAAAwps/fu7GMDaULwEgJYarzmR1Vo5w_BRoPg2eACK8BGAsYHg/s0/20200307.png" group-title="Patagonia",Radio Las Nieves
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://v2.tustreaming.cl/rln/tracks-v1a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="CanalSurPatagonia.cl" tvg-name="Canal Sur Patagonia" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-SMZdtDq6Dw0/XxzKA9R0abI/AAAAAAAA3Ys/R8wSeZoKBNU4LyZnAXKU_DR1mGnzo1L4wCK8BGAsYHg/s0/202007-25.png" group-title="Patagonia",Canal Sur Patagonia
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://v1.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8
+#
+#EXTINF:-1 tvg-id="AysénTV.cl" tvg-name="AysénTV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/aa749a5b36cdc1c3084e6d36fe2275c6.png" group-title="Patagonia",AysénTV | 67
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://v2.tustreaming.cl/aysentv/tracks-v1a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="RoccoTV.cl" tvg-name="Rocco TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-5jEbbcsU_ik/XYkOp0auiYI/AAAAAAAArFI/FZ5rSg86P3UYvIygsK6xhWt2xrO37mAsQCK8BGAsYHg/s0/201909-23.png" group-title="Patagonia",RoccoTV | 4
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+http://evo.eltelon.com:1935/live/rocco-tv/chunklist_w1528214402.m3u8
+#
+#EXTINF:-1 tvg-id="Canal11TVAysén.cl" tvg-name="Canal 11 TV Aysén" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/8023836adcf3a07cfaef99fcccbe8292.png" group-title="Patagonia",C11 | TV Aysén
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://v2.tustreaming.cl/canal11aysen/tracks-v1a1/mono.m3u8
+#
+#EXTINF:-1 tvg-id="SantaMaríaTV.cl" tvg-name="Santa María TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-u0E4RY62ySI/XbC2IU7YHXI/AAAAAAAArmQ/2mDq3cPseesa8lsFWQB8TPWlwAggTb3HQCK8BGAsYHg/s0/201900-23.png" group-title="Patagonia",Santa María TV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8
+#
+#EXTINF:-1 tvg-id="SurTV.cl" tvg-name="SurTV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/78850b6e924f55fcbeef5459a37a54a9.png" group-title="Patagonia",SurTV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://paneltv.online:1936/8034/8034/chunklist_w1999146347.m3u8
+#
+#EXTINF:-1 tvg-id="PingüinoTV.cl" tvg-name="PingüinoTV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-qSwYgRuowGA/YLwYt69YoOI/AAAAAAABCuU/avw_KQcl4cUIiy4s2iebwzLAuy5CZDOXQCJEEGAsYHg/s512/20210605.png" group-title="Patagonia",PingüinoTV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+http://167.114.133.205:1935/live/pinguinotv/chunklist_w1572436363.m3u8
+#
+#EXTINF:-1 tvg-id="OpinionSur.cl" tvg-name="OpinionSur" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/bbb0373472ad737d7f75d40d9c3d1839.png" group-title="Patagonia",OpiniónSurTV
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://mediacpstreamchile.com:1936/opinionsur/opinionsur/chunklist_w643869657.m3u8
+#
+#EXTINF:-1 tvg-id="iTVPatagonia.cl" tvg-name="ITV Patagonia" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-ZBNktblWn9U/YHTLWC_p1aI/AAAAAAABBXY/v90ntMGcb7kuYUK0yqNBGSTtu1JiQUHfQCK8BGAsYHg/s512/20210402.png" group-title="Patagonia",iTV Patagonia
+#EXTVLCOPT:http-user-agent=AppleTV/tvOS/16.0
+https://unlimited1-cl-isp.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?nimblesessionid=
+#######

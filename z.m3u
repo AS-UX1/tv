@@ -1,190 +1,190 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 #EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/01_TVN.png" group-title="Chile",TVN
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/8.ts
 #
 #EXTINF:-1 tvg-id="24Horas.cl" tvg-name="24 horas" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/02_24_HORAS.png" group-title="Noticias | Chile",24 Horas
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?access_token=
 #
 #EXTINF:-1 tvg-id="TVChile.cl" tvg-name="TV Chile" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/03_TV_CHILE.png" group-title="Chile",TV Chile
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?access_token=
 #
 #EXTINF:-1 tvg-id="NTV.cl" tvg-name="NTV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/04_NTV.png" group-title="Geeks | Animé | Niños",NTV
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 #
 #EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/05_MEGA.png" group-title="Chile",Mega
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/2.ts
 #
 #EXTINF:-1 tvg-id="Meganoticias.cl" tvg-name="Meganoticias" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/06_MEGANOTICIAS.png" group-title="Noticias | Chile",Meganoticias
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?access_token=
 #
 #EXTINF:-1 tvg-id="MEGAPLUS CL" tvg-name="CL: Mega Plus HD" tvg-logo="http://logos.iptv.wtf/chile/megaplus.png" group-title="Chile",CL: Mega Plus HD
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/9748.ts
 #
 #EXTINF:-1 tvg-id="ETC CL" tvg-name="CL: ETC TV HD" tvg-logo="http://logos.iptv.wtf/chile/etc.png" group-title="Chile",CL: ETC TV HD
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/1513.ts
 #
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="ChileVision" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/07_CHILEVISION.png" group-title="Chile",CHV
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/6.ts
 #
 #EXTINF:-1 tvg-id="CHVMNoticias.cl" tvg-name="CHV Noticias" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/08_CHV_NOTICIAS.png" group-title="Noticias | Chile",CHV Noticias
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master_1.m3u8
 #
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/09_CANAL_13.png" group-title="Chile",Canal 13
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/4.ts
 #
 #EXTINF:-1 tvg-id="T13.cl" tvg-name="T13" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/10_T13.png" group-title="Noticias | Chile",T13
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/t13/livestream1/chunks.m3u8
 #
 #EXTINF:-1 tvg-id="CANAL13C CL" tvg-name="CL: 13C HD" tvg-logo="http://logos.iptv.wtf/chile/13c.png" group-title="Chile",CL: 13C HD
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/47.ts
 #
 #EXTINF:-1 tvg-id="RECTV CL" tvg-name="CL: Rec TV HD" tvg-logo="http://logos.iptv.wtf/chile/rectv.png" group-title="Chile",CL: Rec TV HD
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/52.ts
 #
 #EXTINF:-1 tvg-id="13Entretención.cl" tvg-name="13 Entretención" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/11_13_E.png" group-title="Chile",13 | Entretención
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="13Prime.cl" tvg-name="13 Prime" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/12_13_P.png" group-title="Chile",13 | Primo
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="13Teleseries.cl" tvg-name="13 Teleseries" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/13_13_T.png" group-title="Chile",13 | Teleseries
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/14_LA_RED.png" group-title="Chile",La Red
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 https://marine2.miplay.cl/lared/tracks-v2a1/mono.m3u8
 #
 #EXTINF:-1 tvg-id="TVPlus.cl" tvg-name="TV Plus" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/15_TV+.png" group-title="Chile",TV+
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 https://marine2.miplay.cl/tvmas/tracks-v1a1/mono.m3u8
 #
 #EXTINF:-1 tvg-id="UCTV.cl" tvg-name="UCV TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/16_UCV.png" group-title="Chile",UCV
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 https://marine2.miplay.cl/ucv3/tracks-v2a1/mono.m3u8
 #
 #EXTINF:-1 tvg-id="UCTV2.cl" tvg-name="UCV TV 2 " tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/17_UCV_2.png" group-title="Chile",UCV | 2
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8?nimblesessionid=
 #
 #EXTINF:-1 tvg-id="VIAX CL" tvg-name="CL: Via X" tvg-logo="https://logos.iptv.wtf/chile/viax.png" group-title="Chile",CL: Via X
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/13888.ts
 #
 #EXTINF:-1 tvg-id="VIAX2 CL" tvg-name="CL: Via X 2" tvg-logo="https://logos.iptv.wtf/chile/viax2.png" group-title="Chile",CL: Via X 2
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/13889.ts
 #
 #EXTINF:-1 tvg-id="StgoTV.cl" tvg-name="Stgo.TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-02uPrXnaZuY/Xk_sz_MIaEI/AAAAAAAAwVo/wwJD8vjW0ScrhAp-BVHSElUKIOUN_CqJgCK8BGAsYHg/s0/2020-02-21.png" group-title="Chile",Stgo.TV
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 https://stv.janus.cl/playlist/stream.m3u8?s=hd&t=&id=f357dd42-bb98-e8c5-fcc3-9206ca8e26d8&q=&d=u
 #
 #EXTINF:-1 tvg-id="UChileTV.cl" tvg-name="U Chile TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/2336e0cef4642213124e4192f019ccfd.png" group-title="Chile",U Chile TV
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/uchiletv/livestream2/chunks.m3u8
 #
 #EXTINF:-1 tvg-id="WappTV.cl" tvg-name="WappTV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://lh3.googleusercontent.com/-XPA8QBfVGSA/YLEWvahvgkI/AAAAAAABCjo/sVxl7r4_EQgdvmviKMozcvmxwajFgdLcgCJEEGAsYHg/s512/202105-28.jpg" group-title="Chile",WappTV
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8?access_token=
 #
 #EXTINF:-1 tvg-id="tevex.cl" tvg-name="tevex" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/37360245ae2194a41c9eaca39c5e1ec0.png" group-title="Chile",tevex
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
 #
 #EXTINF:-1 tvg-id="38TV.cl" tvg-name="38TV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://i2.paste.pics/3cc1950b0f0c4ad15752bd5b6646fdf6.png" group-title="Chile",38TV
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 https://v2.tustreaming.cl:19360/38tv/38tv.m3u8
 #
 #EXTINF:-1 tvg-id="ZappingMusic.cl" tvg-name="Zapping Music" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png" group-title="Música | Radio",Zapping Music
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
 #
 #EXTINF:-1 tvg-id="RewindTV.cl" tvg-name="RewindTV" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://www.m3u.cl/logo/1_Rewind_Radio_y_TV.png" group-title="Música | Radio",Rewind
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1113017119.m3u8
 #
 #EXTINF:-1 tvg-id="CL HISTORY" tvg-name="History Channel HD" tvg-logo="http://logos.iptv.wtf/culturales/history.png" group-title="Culturales",History Channel HD
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/9530.ts
 #
 #EXTINF:-1 tvg-id="" tvg-name="History Channel HD *" tvg-logo="http://logos.iptv.wtf/culturales/history.png" group-title="Culturales",History Channel HD *
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/9531.ts
 #
 #EXTINF:-1 tvg-id="" tvg-name="ARG: History" tvg-logo="" group-title="Argentina",ARG: History
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/14596.ts
 #
 #EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="http://logos.iptv.wtf/culturales/history2.png" group-title="Culturales",H2
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/8867.ts
 #
 #EXTINF:-1 tvg-id="CO H2 HD" tvg-name="H2 Full HD" tvg-logo="http://logos.iptv.wtf/culturales/history2.png" group-title="Culturales",H2 Full HD
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/8866.ts
 #
 #EXTINF:-1 tvg-id="" tvg-name="H2 *" tvg-logo="http://logos.iptv.wtf/culturales/history2.png" group-title="Culturales",H2 *
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/13824.ts
 #
 #EXTINF:-1 tvg-id="HISTORY2 CL" tvg-name="CL: History 2" tvg-logo="http://logos.iptv.wtf/culturales/history2.png" group-title="Chile",CL: History 2
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/13887.ts
 #
 #EXTINF:-1 tvg-id="HISTORY2 CL" tvg-name="CL: History 2 HD" tvg-logo="http://logos.iptv.wtf/culturales/history2.png" group-title="Chile",CL: History 2 HD
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/14278.ts
 #
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Full HD ***" tvg-logo="http://logos.iptv.wtf/culturales/discoveryturbo.png" group-title="Culturales",Discovery Turbo Full HD ***
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/14854.ts
 #
 #EXTINF:-1 tvg-id="MX DISCOVERY TURBO" tvg-name="Discovery Turbo Full HD" tvg-logo="http://logos.iptv.wtf/culturales/discoveryturbo.png" group-title="Culturales",Discovery Turbo Full HD
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/268.ts
 #
 #EXTINF:-1 tvg-id="CL DISCOVERY HOME HEALTH" tvg-name="Discovery Home and Health Full HD" tvg-logo="http://logos.iptv.wtf/culturales/discoveryhh.png" group-title="Culturales",Discovery Home and Health Full HD
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/109.ts
 #
 #EXTINF:-1 tvg-id="CL DISCOVERY HOME HEALTH" tvg-name="Discovery Home and Health HD" tvg-logo="http://logos.iptv.wtf/culturales/discoveryhh.png" group-title="Culturales",Discovery Home and Health HD
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/119.ts
 #
 #EXTINF:-1 tvg-id="DISCOVERYHOMEANDHEALTH CL" tvg-name="CL: Discovery Home & Health Full HD" tvg-logo="http://logos.iptv.wtf/culturales/discoveryhh.png" group-title="Chile",CL: Discovery Home & Health Full HD
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/9033.ts
 #
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health *" tvg-logo="http://logos.iptv.wtf/culturales/discoveryhh.png" group-title="Culturales",Discovery Home and Health *
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/13826.ts
 #
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health" tvg-logo="http://logos.iptv.wtf/culturales/discoveryhh.png" group-title="Culturales",Discovery Home and Health
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/13827.ts
 #
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Discovery H&H" tvg-logo="" group-title="Argentina",ARG: Discovery H&H
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/14565.ts
 #
 #EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="http://logos.iptv.wtf/culturales/id.png" group-title="Culturales",Investigation Discovery
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/3368.ts
 #######

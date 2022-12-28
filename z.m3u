@@ -128,29 +128,13 @@ http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/9530.ts
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/9531.ts
 #
-#EXTINF:-1 tvg-id="" tvg-name="ARG: History" tvg-logo="" group-title="Argentina",ARG: History
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
-http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/14596.ts
-#
-#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="http://logos.iptv.wtf/culturales/history2.png" group-title="Culturales",H2
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
-http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/8867.ts
-#
 #EXTINF:-1 tvg-id="CO H2 HD" tvg-name="H2 Full HD" tvg-logo="http://logos.iptv.wtf/culturales/history2.png" group-title="Culturales",H2 Full HD
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/8866.ts
 #
-#EXTINF:-1 tvg-id="" tvg-name="H2 *" tvg-logo="http://logos.iptv.wtf/culturales/history2.png" group-title="Culturales",H2 *
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
-http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/13824.ts
-#
 #EXTINF:-1 tvg-id="HISTORY2 CL" tvg-name="CL: History 2" tvg-logo="http://logos.iptv.wtf/culturales/history2.png" group-title="Chile",CL: History 2
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/13887.ts
-#
-#EXTINF:-1 tvg-id="HISTORY2 CL" tvg-name="CL: History 2 HD" tvg-logo="http://logos.iptv.wtf/culturales/history2.png" group-title="Chile",CL: History 2 HD
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
-http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/14278.ts
 #
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Full HD ***" tvg-logo="http://logos.iptv.wtf/culturales/discoveryturbo.png" group-title="Culturales",Discovery Turbo Full HD ***
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
@@ -164,27 +148,7 @@ http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/268.ts
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/109.ts
 #
-#EXTINF:-1 tvg-id="CL DISCOVERY HOME HEALTH" tvg-name="Discovery Home and Health HD" tvg-logo="http://logos.iptv.wtf/culturales/discoveryhh.png" group-title="Culturales",Discovery Home and Health HD
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
-http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/119.ts
-#
-#EXTINF:-1 tvg-id="DISCOVERYHOMEANDHEALTH CL" tvg-name="CL: Discovery Home & Health Full HD" tvg-logo="http://logos.iptv.wtf/culturales/discoveryhh.png" group-title="Chile",CL: Discovery Home & Health Full HD
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
-http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/9033.ts
-#
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health *" tvg-logo="http://logos.iptv.wtf/culturales/discoveryhh.png" group-title="Culturales",Discovery Home and Health *
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
-http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/13826.ts
-#
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health" tvg-logo="http://logos.iptv.wtf/culturales/discoveryhh.png" group-title="Culturales",Discovery Home and Health
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
-http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/13827.ts
-#
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Discovery H&H" tvg-logo="" group-title="Argentina",ARG: Discovery H&H
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/14565.ts
-#
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="http://logos.iptv.wtf/culturales/id.png" group-title="Culturales",Investigation Discovery
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.12B466 (Apple TV; U; CPU OS 8_1_3 like Mac OS X; en_us)
-http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/3368.ts
 #######

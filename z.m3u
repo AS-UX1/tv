@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
 #EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/01_TVN.png" group-title="Chile",TVN
 #EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
 http://live.iptv.wtf:80/live/rwznmnhi/74c0wcD6fE/8.ts
@@ -65,7 +64,7 @@ https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
 https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="13Teleseries.cl" tvg-name="13 Teleseries" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/13_13_T.png" group-title="Chile",13 | Teleseries
-#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+#EXTVLCOPT:http-user-agent=AppleTV
 https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/14_LA_RED.png" group-title="Chile",La Red

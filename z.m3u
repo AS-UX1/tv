@@ -79,7 +79,8 @@ https://marine2.miplay.cl/tvmas/tracks-v1a1/mono.m3u8
 https://marine2.miplay.cl/ucv3/tracks-v2a1/mono.m3u8
 #
 #EXTINF:-1 tvg-id="UCTV2.cl" tvg-name="UCV TV 2 " tvg-language="spanish" tvg-country="CL" shift="-3" tvg-url="" decoder="720p" audio-track="" subtitles="" tvg-logo="https://raw.githubusercontent.com/BlacKm3u/iptv/list/17_UCV_2.png" group-title="Chile",UCV | 2
-https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8?nimblesessionid=
+#EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
+https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 #
 #EXTINF:-1 tvg-id="VIAX CL" tvg-name="CL: Via X" tvg-logo="https://logos.iptv.wtf/chile/viax.png" group-title="Chile",CL: Via X
 #EXTVLCOPT:http-user-agent=Haystack TV/20 (Apple TV; iOS 10.1; Escala/1,00)
